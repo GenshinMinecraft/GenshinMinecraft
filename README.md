@@ -5,7 +5,9 @@
 ## Contact Me
 
 Telegram: [@C1oudF1are](https://t.me/c1oudf1are)
+
 Discord: @genshinminecraft
+
 E-mail: gm@highp.ing
 
 ## Blog
