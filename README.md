@@ -11,6 +11,6 @@ Discord: @genshinminecraft
 E-mail: gm@highp.ing
 
 ## Blog
-High Ping Network's Blog: <https://blog.highp.ing>
+<https://blog.c1oudf1are.eu.org/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&pause=1000&random=false&width=800&lines=WE+LOVE+OPEN-SOURCE+--Arduino)](https://git.io/typing-svg)
