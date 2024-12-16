@@ -13,6 +13,14 @@ So, WE LOVE OPEN-SOURCE
 ![](https://github-readme-stats.vercel.app/api?username=GenshinMinecraft&count_private=true&show_icons=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GenshinMinecraft&layout=compact&theme=dark)
 
+<p align="center">
+  <a href="https://c1oudf1are.eu.org">
+    <img src="https://skillicons.dev/icons?i=rust,bash,cpp,arduino,wasm" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,mint,windows" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,githubactions,git,vim,discord,gmail,nginx,replit,vscode&perline=5" />
+  </a>
+</p>
+
 ## Contact Me
 
 Telegram: [@C1oudF1are](https://t.me/c1oudf1are)
