@@ -16,8 +16,6 @@ So, WE LOVE OPEN-SOURCE
 <p align="center">
   <a href="https://c1oudf1are.eu.org">
     <img src="https://skillicons.dev/icons?i=rust,bash,cpp,arduino,wasm" />
-    <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,mint,windows" />
-    <img src="https://skillicons.dev/icons?i=cloudflare,githubactions,git,vim,discord,gmail,nginx,replit,vscode&perline=5" />
   </a>
 </p>
 
