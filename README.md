@@ -10,6 +10,9 @@ Favorite language is Rust
 
 So, WE LOVE OPEN-SOURCE
 
+![](https://github-readme-stats.vercel.app/api?username=GenshinMinecraft&count_private=true&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GenshinMinecraft&layout=compact&theme=dark)
+
 ## Contact Me
 
 Telegram: [@C1oudF1are](https://t.me/c1oudf1are)
