@@ -21,6 +21,18 @@ So, WE LOVE OPEN-SOURCE
   </a>
 </p>
 
+<p align="center">
+  <a href="https://c1oudf1are.eu.org">
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,mint,windows" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://c1oudf1are.eu.org">
+    <img src="https://skillicons.dev/icons?i=cloudflare,githubactions,git,vim,discord,gmail,nginx,replit,vscode&perline=5" />
+  </a>
+</p>
+
 ## Contact Me
 
 Telegram: [@C1oudF1are](https://t.me/c1oudf1are)
