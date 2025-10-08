@@ -4,7 +4,7 @@
 
 ## About Me
 
-A 14-year-old junior high school student from China
+A 15-year-old junior high school student from China
 
 Favorite language is Rust
 
