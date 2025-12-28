@@ -34,10 +34,15 @@ So, WE LOVE OPEN-SOURCE
 ## Contact Me
 
 Github: https://github.com/GenshinMinecraft
+
 Telegram: https://t.me/C1oudF1are
+
 Telegram Channel: https://t.me/we_love_opensource
+
 My Blog: https://genmin.icu
+
 Discord: @genshinminecraft
+
 E-mail: gm@highp.ing
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&pause=1000&random=false&width=800&lines=WE+LOVE+OPEN-SOURCE+--Arduino)](https://git.io/typing-svg)
